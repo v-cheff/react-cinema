@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-cinema/static/css/main.774b0fd4.css",
+    "main.js": "/react-cinema/static/js/main.af51313a.js",
+    "static/js/787.fa79b8c8.chunk.js": "/react-cinema/static/js/787.fa79b8c8.chunk.js",
+    "index.html": "/react-cinema/index.html",
+    "main.774b0fd4.css.map": "/react-cinema/static/css/main.774b0fd4.css.map",
+    "main.af51313a.js.map": "/react-cinema/static/js/main.af51313a.js.map",
+    "787.fa79b8c8.chunk.js.map": "/react-cinema/static/js/787.fa79b8c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.774b0fd4.css",
+    "static/js/main.af51313a.js"
+  ]
+}
