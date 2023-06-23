@@ -1,0 +1,16 @@
+.card {
+  color: black;
+  flex-basis: 300px;
+  margin: 20px;
+  box-shadow: 1px 1px 4px 2px #CCC;
+}
+.card div {
+  color: black;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+
+.card p {
+  display: flex;
+  justify-content: space-between;
+}
